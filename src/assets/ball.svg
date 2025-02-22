@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1929.6 1411.6">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2, .st3, .st4 {
+        fill: none;
+      }
+
+      .st5 {
+        fill: #7eb0d8;
+      }
+
+      .st6 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 1.2px;
+      }
+
+      .st1 {
+        stroke: #7eb0d8;
+      }
+
+      .st1, .st2, .st3, .st4, .st7 {
+        stroke-miterlimit: 10;
+      }
+
+      .st1, .st4 {
+        stroke-width: 0px;
+      }
+
+      .st2 {
+        stroke: #e95100;
+        stroke-width: 3px;
+      }
+
+      .st3 {
+        stroke: #146a99;
+        stroke-width: 4.5px;
+      }
+
+      .st8 {
+        fill: #dd3e16;
+      }
+
+      .st9, .st7 {
+        fill: #fff;
+      }
+
+      .st4 {
+        stroke: #098be8;
+      }
+
+      .st10 {
+        fill: #e95100;
+      }
+
+      .st7 {
+        stroke: #1393ea;
+        stroke-width: 2.7px;
+      }
+
+      .st11 {
+        fill: #0fb9f4;
+      }
+
+      .st12 {
+        clip-path: url(#clippath);
+      }
+
+      .st13 {
+        fill: #098be8;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st0" x="1.9" y="5.6" width="1927.7" height="1406.1"/>
+    </clipPath>
+  </defs>
+  <rect class="st3" x="101.1" y="106.2" width="449.1" height="669"/>
+  <g class="st12">
+    <g>
+      <path class="st11" d="M247.8,635.4c19.1,8.2,40.4,12.3,63.8,12.3s49.4-5,69.3-15c19.9-10,35.4-24.2,46.5-42.7,11.3-18.5,16.9-40.2,16.9-65.3V253.6h-81.2v271.1c0,12.4-1.8,22.8-5.5,31.3-3.7,8.5-9,14.9-16.1,19.4-7,4.3-15.5,6.5-25.6,6.5s-18-1.9-25.1-5.7c-7-3.9-12.5-9.5-16.5-16.7-3.9-7.3-6-16.1-6.3-26.4h-81.8c-.1,25.8,5.4,47.3,16.5,64.4,11.1,17,26.2,29.6,45.2,38Z"/>
+      <path class="st11" d="M439.2,987.7c-12.9-7.7-26.8-11.9-41.6-12.5v-3.8c13.5-3,25.6-8.2,36.1-15.4,10.6-7.3,19-16.7,25.1-28.1,6.1-11.5,9.1-24.9,9.1-40.1s-4.8-36.7-14.4-51.6c-9.6-15.1-24-26.8-43.1-35.3-19.1-8.5-43-12.7-71.6-12.7h-155.7v388.8h166.1c29.1,0,53.6-4.7,73.5-14,19.9-9.4,34.9-22.1,45-38.2,10.3-16.2,15.4-34.6,15.4-55.2s-4-35.6-12.1-49.4c-8.1-13.9-18.7-24.7-31.7-32.5ZM265.3,854.6h62.5c18.2,0,32.3,4.3,42.1,12.9,10,8.6,15,19.9,15,34s-2.6,19-7.8,26.4c-5.1,7.3-12,13-20.9,17.1-8.7,3.9-18.7,5.9-30,5.9h-60.9v-96.2ZM382.4,1096.7c-10.5,8.7-27.2,13.1-50.1,13.1h-67v-103.3h68.9c13.2,0,24.5,2.3,34,7,9.6,4.7,17,11.1,22.2,19.4,5.2,8.2,7.8,17.7,7.8,28.5s-5.3,26.5-15.8,35.3Z"/>
+      <path class="st11" d="M678.4,624.2c27.5,15.7,58.5,23.5,93,23.5s65.2-7.8,92.6-23.3c27.6-15.7,49.4-38.4,65.3-68.1,16.1-29.7,24.1-65.8,24.1-108.2s-8-78.5-24.1-108.2c-15.9-29.7-37.7-52.4-65.3-68-27.5-15.7-58.3-23.5-92.6-23.5s-65.6,7.8-93,23.5c-27.5,15.6-49.2,38.2-65.1,68-15.9,29.7-23.9,65.8-23.9,108.2s8,78.3,23.9,108c15.9,29.7,37.7,52.5,65.1,68.1ZM684.8,378.5c8.2-18.9,19.7-33.2,34.6-42.9,14.8-9.7,32.1-14.6,52-14.6s37.2,4.9,52,14.6c14.8,9.7,26.3,24,34.4,42.9,8.2,18.9,12.3,42,12.3,69.5s-4.1,50.6-12.3,69.5c-8.1,18.9-19.6,33.2-34.4,42.9-14.8,9.7-32.1,14.6-52,14.6s-37.2-4.9-52-14.6c-14.8-9.7-26.3-24-34.6-42.9-8.1-18.9-12.1-42-12.1-69.5s4-50.6,12.1-69.5Z"/>
+      <path class="st11" d="M718.5,788.2l-134.2,388.8h88.1l28.8-88.7h140.4l28.8,88.7h88.1l-134-388.8h-105.9ZM722.1,1024.1l47.9-147.1h3l47.8,147.1h-98.7Z"/>
+      <path class="st11" d="M1337.6,455.6c-10.4-9.2-22.7-17-36.8-23.3-14.2-6.3-29.7-11.4-46.7-15.2l-34.9-8.4c-8.5-1.9-16.5-4.2-23.9-6.8-7.5-2.8-14-6-19.7-9.7-5.7-3.8-10.2-8.3-13.5-13.5-3.2-5.2-4.6-11.3-4.4-18.2,0-8.4,2.4-15.8,7.2-22.4,4.9-6.6,12-11.7,21.3-15.4,9.2-3.8,20.6-5.7,34-5.7,19.7,0,35.4,4.2,46.9,12.7,11.5,8.5,18,20.4,19.6,35.7h78.8c-.4-23.2-6.6-43.5-18.6-61.1-12-17.6-28.9-31.3-50.5-41.2-21.5-9.9-46.7-14.8-75.6-14.8s-53.7,4.9-75.9,14.8c-22.3,9.9-39.8,23.6-52.6,41.2-12.7,17.6-18.9,38.2-18.8,61.7-.1,28.7,9.3,51.6,28.3,68.5,19,17,44.9,29.4,77.6,37.4l42.3,10.6c14.2,3.4,26.1,7.2,35.9,11.4,9.9,4.2,17.3,9.2,22.4,15.2,5.2,5.9,7.8,13.3,7.8,22s-2.8,17.7-8.5,24.9c-5.7,7.2-13.7,12.8-24.1,16.9-10.2,4-22.3,6.1-36.3,6.1s-26.9-2.2-38.2-6.5c-11.1-4.4-20.1-10.9-26.8-19.6-6.6-8.7-10.3-19.6-11.2-32.7h-79.5c.6,28,7.4,51.4,20.3,70.4,13,18.9,31.1,33.1,54.3,42.7,23.3,9.6,50.6,14.4,82,14.4s58.7-4.7,81.1-14.2c22.5-9.6,39.7-23.1,51.6-40.4,12-17.5,18.1-38.1,18.2-61.9-.1-16.2-3.1-30.6-8.9-43.1-5.7-12.5-13.7-23.4-24.1-32.7Z"/>
+      <polygon class="st11" points="1181.3 788.2 1099.1 788.2 1099.1 1177 1348 1177 1348 1109.2 1181.3 1109.2 1181.3 788.2"/>
+      <polygon class="st11" points="1745.8 253.6 1745.8 414 1579 414 1579 253.6 1496.8 253.6 1496.8 642.4 1579 642.4 1579 481.8 1745.8 481.8 1745.8 642.4 1827.8 642.4 1827.8 253.6 1745.8 253.6"/>
+      <polygon class="st11" points="1626.7 788.2 1544.5 788.2 1544.5 1177 1793.4 1177 1793.4 1109.2 1626.7 1109.2 1626.7 788.2"/>
+    </g>
+    <g>
+      <line class="st2" x1="325.2" y1="642.7" x2="325.2" y2="107.3"/>
+      <line class="st2" x1="101.6" y1="641.8" x2="547" y2="642"/>
+    </g>
+    <g>
+      <rect class="st5" x="323.4" y="92" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="79.2" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="66.4" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="53.5" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="40.7" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="27.9" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="15.1" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="2.3" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="-10.5" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="-23.4" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="-36.2" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="-49" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="-61.8" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="-74.6" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="-87.5" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="-100.3" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="-113.1" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="-125.9" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="-138.7" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="-151.6" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="-164.4" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="-177.2" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="-190" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="-202.8" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="-215.7" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="-228.5" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="-241.3" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="-254.1" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="-266.9" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="-279.7" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="-292.6" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="-305.4" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="-318.2" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="-331" width="4.6" height="8"/>
+      <rect class="st5" x="323.4" y="-343.8" width="4.6" height="8"/>
+    </g>
+    <g>
+      <rect class="st5" x="-348" y="437.9" width="4.6" height="8" transform="translate(96.2 787.5) rotate(90)"/>
+      <rect class="st5" x="-335.1" y="437.9" width="4.6" height="8" transform="translate(109 774.7) rotate(90)"/>
+      <rect class="st5" x="-322.3" y="437.9" width="4.6" height="8" transform="translate(121.9 761.9) rotate(90)"/>
+      <rect class="st5" x="-309.5" y="437.9" width="4.6" height="8" transform="translate(134.7 749) rotate(90)"/>
+      <rect class="st5" x="-296.7" y="437.9" width="4.6" height="8" transform="translate(147.5 736.2) rotate(90)"/>
+      <rect class="st5" x="-283.9" y="437.9" width="4.6" height="8" transform="translate(160.3 723.4) rotate(90)"/>
+      <rect class="st5" x="-271.1" y="437.9" width="4.6" height="8" transform="translate(173.1 710.6) rotate(90)"/>
+      <rect class="st5" x="-258.2" y="437.9" width="4.6" height="8" transform="translate(185.9 697.8) rotate(90)"/>
+      <rect class="st5" x="-245.4" y="437.9" width="4.6" height="8" transform="translate(198.8 685) rotate(90)"/>
+      <rect class="st5" x="-232.6" y="437.9" width="4.6" height="8" transform="translate(211.6 672.1) rotate(90)"/>
+      <rect class="st5" x="-219.8" y="437.9" width="4.6" height="8" transform="translate(224.4 659.3) rotate(90)"/>
+      <rect class="st5" x="-207" y="437.9" width="4.6" height="8" transform="translate(237.2 646.5) rotate(90)"/>
+      <rect class="st5" x="-194.1" y="437.9" width="4.6" height="8" transform="translate(250 633.7) rotate(90)"/>
+      <rect class="st5" x="-181.3" y="437.9" width="4.6" height="8" transform="translate(262.9 620.9) rotate(90)"/>
+      <rect class="st5" x="-168.5" y="437.9" width="4.6" height="8" transform="translate(275.7 608) rotate(90)"/>
+      <rect class="st5" x="-155.7" y="437.9" width="4.6" height="8" transform="translate(288.5 595.2) rotate(90)"/>
+      <rect class="st5" x="-142.9" y="437.9" width="4.6" height="8" transform="translate(301.3 582.4) rotate(90)"/>
+      <rect class="st5" x="-130" y="437.9" width="4.6" height="8" transform="translate(314.1 569.6) rotate(90)"/>
+      <rect class="st5" x="-117.2" y="437.9" width="4.6" height="8" transform="translate(327 556.8) rotate(90)"/>
+      <rect class="st5" x="-104.4" y="437.9" width="4.6" height="8" transform="translate(339.8 543.9) rotate(90)"/>
+      <rect class="st5" x="-91.6" y="437.9" width="4.6" height="8" transform="translate(352.6 531.1) rotate(90)"/>
+      <rect class="st5" x="-78.8" y="437.9" width="4.6" height="8" transform="translate(365.4 518.3) rotate(90)"/>
+      <rect class="st5" x="-66" y="437.9" width="4.6" height="8" transform="translate(378.2 505.5) rotate(90)"/>
+      <rect class="st5" x="-53.1" y="437.9" width="4.6" height="8" transform="translate(391.1 492.7) rotate(90)"/>
+      <rect class="st5" x="-40.3" y="437.9" width="4.6" height="8" transform="translate(403.9 479.9) rotate(90)"/>
+      <rect class="st5" x="-27.5" y="437.9" width="4.6" height="8" transform="translate(416.7 467) rotate(90)"/>
+      <rect class="st5" x="-14.7" y="437.9" width="4.6" height="8" transform="translate(429.5 454.2) rotate(90)"/>
+      <rect class="st5" x="-1.9" y="437.9" width="4.6" height="8" transform="translate(442.3 441.4) rotate(90)"/>
+      <rect class="st5" x="11" y="437.9" width="4.6" height="8" transform="translate(455.1 428.6) rotate(90)"/>
+      <rect class="st5" x="23.8" y="437.9" width="4.6" height="8" transform="translate(468 415.8) rotate(90)"/>
+      <rect class="st5" x="36.6" y="437.9" width="4.6" height="8" transform="translate(480.8 402.9) rotate(90)"/>
+      <rect class="st5" x="49.4" y="437.9" width="4.6" height="8" transform="translate(493.6 390.1) rotate(90)"/>
+      <rect class="st5" x="62.2" y="437.9" width="4.6" height="8" transform="translate(506.4 377.3) rotate(90)"/>
+      <rect class="st5" x="75.1" y="437.9" width="4.6" height="8" transform="translate(519.2 364.5) rotate(90)"/>
+      <rect class="st5" x="87.9" y="437.9" width="4.6" height="8" transform="translate(532.1 351.7) rotate(90)"/>
+    </g>
+    <g>
+      <rect class="st1" x="-348" y="437.9" width="4.6" height="8" transform="translate(96.2 787.5) rotate(90)"/>
+      <rect class="st1" x="-335.1" y="437.9" width="4.6" height="8" transform="translate(109 774.7) rotate(90)"/>
+      <rect class="st1" x="-322.3" y="437.9" width="4.6" height="8" transform="translate(121.9 761.9) rotate(90)"/>
+      <rect class="st1" x="-309.5" y="437.9" width="4.6" height="8" transform="translate(134.7 749) rotate(90)"/>
+      <rect class="st1" x="-296.7" y="437.9" width="4.6" height="8" transform="translate(147.5 736.2) rotate(90)"/>
+      <rect class="st1" x="-283.9" y="437.9" width="4.6" height="8" transform="translate(160.3 723.4) rotate(90)"/>
+      <rect class="st1" x="-271.1" y="437.9" width="4.6" height="8" transform="translate(173.1 710.6) rotate(90)"/>
+      <rect class="st1" x="-258.2" y="437.9" width="4.6" height="8" transform="translate(185.9 697.8) rotate(90)"/>
+      <rect class="st1" x="-245.4" y="437.9" width="4.6" height="8" transform="translate(198.8 685) rotate(90)"/>
+      <rect class="st1" x="-232.6" y="437.9" width="4.6" height="8" transform="translate(211.6 672.1) rotate(90)"/>
+      <rect class="st1" x="-219.8" y="437.9" width="4.6" height="8" transform="translate(224.4 659.3) rotate(90)"/>
+      <rect class="st1" x="-207" y="437.9" width="4.6" height="8" transform="translate(237.2 646.5) rotate(90)"/>
+      <rect class="st1" x="-194.1" y="437.9" width="4.6" height="8" transform="translate(250 633.7) rotate(90)"/>
+      <rect class="st1" x="-181.3" y="437.9" width="4.6" height="8" transform="translate(262.9 620.9) rotate(90)"/>
+      <rect class="st1" x="-168.5" y="437.9" width="4.6" height="8" transform="translate(275.7 608) rotate(90)"/>
+      <rect class="st1" x="-155.7" y="437.9" width="4.6" height="8" transform="translate(288.5 595.2) rotate(90)"/>
+      <rect class="st1" x="-142.9" y="437.9" width="4.6" height="8" transform="translate(301.3 582.4) rotate(90)"/>
+      <rect class="st1" x="-130" y="437.9" width="4.6" height="8" transform="translate(314.1 569.6) rotate(90)"/>
+      <rect class="st1" x="-117.2" y="437.9" width="4.6" height="8" transform="translate(327 556.8) rotate(90)"/>
+      <rect class="st1" x="-104.4" y="437.9" width="4.6" height="8" transform="translate(339.8 543.9) rotate(90)"/>
+      <rect class="st1" x="-91.6" y="437.9" width="4.6" height="8" transform="translate(352.6 531.1) rotate(90)"/>
+      <rect class="st1" x="-78.8" y="437.9" width="4.6" height="8" transform="translate(365.4 518.3) rotate(90)"/>
+      <rect class="st1" x="-66" y="437.9" width="4.6" height="8" transform="translate(378.2 505.5) rotate(90)"/>
+      <rect class="st1" x="-53.1" y="437.9" width="4.6" height="8" transform="translate(391.1 492.7) rotate(90)"/>
+      <rect class="st1" x="-40.3" y="437.9" width="4.6" height="8" transform="translate(403.9 479.9) rotate(90)"/>
+      <rect class="st1" x="-27.5" y="437.9" width="4.6" height="8" transform="translate(416.7 467) rotate(90)"/>
+      <rect class="st1" x="-14.7" y="437.9" width="4.6" height="8" transform="translate(429.5 454.2) rotate(90)"/>
+      <rect class="st1" x="-1.9" y="437.9" width="4.6" height="8" transform="translate(442.3 441.4) rotate(90)"/>
+      <rect class="st1" x="11" y="437.9" width="4.6" height="8" transform="translate(455.1 428.6) rotate(90)"/>
+      <rect class="st1" x="23.8" y="437.9" width="4.6" height="8" transform="translate(468 415.8) rotate(90)"/>
+      <rect class="st1" x="36.6" y="437.9" width="4.6" height="8" transform="translate(480.8 402.9) rotate(90)"/>
+      <rect class="st1" x="49.4" y="437.9" width="4.6" height="8" transform="translate(493.6 390.1) rotate(90)"/>
+      <rect class="st1" x="62.2" y="437.9" width="4.6" height="8" transform="translate(506.4 377.3) rotate(90)"/>
+      <rect class="st1" x="75.1" y="437.9" width="4.6" height="8" transform="translate(519.2 364.5) rotate(90)"/>
+      <rect class="st1" x="87.9" y="437.9" width="4.6" height="8" transform="translate(532.1 351.7) rotate(90)"/>
+    </g>
+    <rect class="st7" x="91.5" y="96.2" width="21.2" height="21.2"/>
+    <rect class="st7" x="537.4" y="96.2" width="21.2" height="21.2"/>
+    <rect class="st7" x="91.5" y="764.5" width="21.2" height="21.2"/>
+    <rect class="st7" x="537.4" y="764.5" width="21.2" height="21.2"/>
+    <g>
+      <rect class="st13" x="257.8" y="799.9" width="134" height="51.5" rx="5.8" ry="5.8"/>
+      <g>
+        <path class="st9" d="M281,813v26.2h-3.3v-23.1h-.2l-6.3,4.7v-3.6l5.7-4.2h4.1Z"/>
+        <path class="st9" d="M295.5,839.5c-1.9,0-3.6-.5-5-1.6s-2.4-2.6-3.1-4.6-1.1-4.4-1.1-7.3.4-5.3,1.1-7.3,1.8-3.5,3.2-4.6,3-1.6,5-1.6,3.6.5,5,1.6,2.4,2.6,3.2,4.6,1.1,4.4,1.1,7.3-.4,5.3-1.1,7.3-1.8,3.5-3.1,4.6-3,1.6-5,1.6ZM295.5,836.6c1.3,0,2.4-.4,3.3-1.2s1.6-2,2-3.6.7-3.5.7-5.7-.2-4.1-.7-5.7-1.1-2.8-2-3.6-2-1.2-3.3-1.2-2.4.4-3.3,1.3-1.6,2-2,3.6-.7,3.5-.7,5.7.2,4.1.7,5.7,1.1,2.8,2,3.6,2,1.2,3.3,1.2Z"/>
+        <path class="st9" d="M330.8,834.3l-14.5-14.5,2-2.1,14.5,14.5-2,2ZM318.4,834.3l-2-2,14.5-14.5,2,2.1-14.5,14.5Z"/>
+        <path class="st9" d="M353.8,813v26.2h-3.3v-23.1h-.2l-6.3,4.7v-3.6l5.7-4.2h4.1Z"/>
+        <path class="st9" d="M367.4,839.5c-1.5,0-2.9-.3-4.1-.9s-2.2-1.4-2.9-2.5-1.1-2.2-1.2-3.6h3.2c0,.8.3,1.5.8,2.1s1.1,1.1,1.8,1.4,1.5.5,2.4.5,2-.2,2.8-.7,1.5-1.2,1.9-2,.7-1.9.7-3-.2-2.1-.7-3-1.2-1.6-2-2.1-1.8-.8-2.9-.8-1.6.1-2.5.4-1.5.6-2,1l-3.1-.4,1.5-13h13.8v2.9h-11l-.9,7.6h.1c.5-.4,1.2-.8,2-1.1s1.7-.4,2.6-.4,2.3.2,3.3.7,1.9,1,2.6,1.8,1.3,1.7,1.7,2.8.6,2.2.6,3.5-.4,3.2-1.1,4.5-1.8,2.3-3.1,3.1-2.8,1.1-4.5,1.1Z"/>
+      </g>
+    </g>
+    <g>
+      <rect class="st8" x="346.5" y="1013.9" width="58.5" height="51.5" rx="5.8" ry="5.8"/>
+      <g>
+        <path class="st9" d="M367.7,1026.8v26.2h-3.3v-23.1h-.2l-6.3,4.7v-3.6l5.7-4.2h4.1Z"/>
+        <path class="st9" d="M373.6,1053v-2.4l8.7-9.4c1-1.1,1.8-2,2.4-2.8s1.1-1.6,1.5-2.3.5-1.5.5-2.3-.2-1.7-.7-2.4-1-1.2-1.8-1.5-1.6-.5-2.5-.5-1.9.2-2.6.6-1.3,1-1.7,1.7-.6,1.6-.6,2.6h-3.2c0-1.5.4-2.9,1.1-4.1s1.7-2.1,2.9-2.7,2.6-1,4.2-1,2.9.3,4.1,1,2.1,1.5,2.8,2.6,1,2.3,1,3.7-.2,1.9-.5,2.8-.9,1.9-1.8,3-2.1,2.5-3.6,4.2l-5.7,6.1v.2h12.1v2.9h-16.7Z"/>
+      </g>
+    </g>
+    <g>
+      <rect class="st8" x="346.5" y="346.1" width="58.5" height="51.5" rx="5.8" ry="5.8"/>
+      <g>
+        <path class="st9" d="M367.7,359v26.2h-3.3v-23.1h-.2l-6.3,4.7v-3.6l5.7-4.2h4.1Z"/>
+        <path class="st9" d="M373.6,385.2v-2.4l8.7-9.4c1-1.1,1.8-2,2.4-2.8s1.1-1.6,1.5-2.3.5-1.5.5-2.3-.2-1.7-.7-2.4-1-1.2-1.8-1.5-1.6-.5-2.5-.5-1.9.2-2.6.6-1.3,1-1.7,1.7-.6,1.6-.6,2.6h-3.2c0-1.5.4-2.9,1.1-4.1s1.7-2.1,2.9-2.7,2.6-1,4.2-1,2.9.3,4.1,1,2.1,1.5,2.8,2.6,1,2.3,1,3.7-.2,1.9-.5,2.8-.9,1.9-1.8,3-2.1,2.5-3.6,4.2l-5.7,6.1v.2h12.1v2.9h-16.7Z"/>
+      </g>
+    </g>
+    <path class="st10" d="M545,111.5v661.8H106.4V111.5h438.6M548,108.5H103.4v667.8h444.6V108.5h0Z"/>
+    <path class="st10" d="M544.5,776.1v529.8H106.4v-529.8h438.1M547.5,773.1H103.4v535.8h444.1v-535.8h0Z"/>
+    <line class="st2" x1="325.2" y1="1309.9" x2="325.2" y2="774.5"/>
+    <line class="st4" x1="148.8" y1="1177.6" x2="502.5" y2="1177.6"/>
+  </g>
+  <text class="st6" transform="translate(623.9 620.4)"><tspan x="0" y="0">3371cf</tspan></text>
+</svg>
